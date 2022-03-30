@@ -4,6 +4,7 @@
 **linibensonjr/linibensonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on [geospatially-africa](https://github.com/linibensonjr/geospatially-africa)
 - 🌱 I’m currently learning Django
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
