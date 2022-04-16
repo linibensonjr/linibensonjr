@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: linibensonjr@yahoo.com
 - ⚡ Fun fact: __init__
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linibensonjr)](https://git.io/streak-stats)
