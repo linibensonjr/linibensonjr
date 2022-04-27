@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Engineering at Altschool Africa
 - 👯 I’m looking to collaborate on building geospatial projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Geospaatial Development
 - 📫 How to reach me: linibensonjr@yahoo.com
 - ⚡ Fun fact: __init__
 
