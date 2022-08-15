@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [geospatially-africa](https://github.com/linibensonjr/geospatially-africa)
 - 🌱 I’m currently learning Software Engineering at [Altschool Africa](https://altschoolafrica.com) School of Software Engineering Class of 2022.
 - 😊 I work with and also learning 🐍 Python, Django, Geodjango, Flask
-- 👯 I’m looking to collaborate on building geospatial projects and world class applications as well as contribute to Open SOurce projects
+- 👯 I’m looking to collaborate on building geospatial projects and world class applications as well as contribute to Open Source projects
 - 💼 Job interests: Geospatial Developer, Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 How to reach me: linibensonjr@yahoo.com
 
