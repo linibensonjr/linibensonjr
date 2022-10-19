@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### My Dev Stack
 - 🔭 Talwind, Bootstrap
-- 🌱 Python, Javascript, Django, Flask
+- 🌱 Python, Javascript, React, Django, Flask
 
 
 #### My Geospatial Stack
