@@ -14,13 +14,15 @@
 
 #### My Dev Stack
 - 🔭 Talwind, Bootstrap
-- 🌱 Python, Javascript, React, Django, Flask
+- 🌱 Python,, Django, Flask
+-  Javascript, React
 
 
 #### My Geospatial Stack
-- 🔭 GDAL/OGR, PostGIS
+- 🔭 GDAL/OGR, PostGIS, SpatialSQL
 - 🌱 GeoDjango, Leafletjs, Geoserver
-- 😊 QGIS, ArcGIS, GEE, GRASS, Erdas Imagine
+- 😊 QGIS, ArcGIS, GRASS, Erdas Imagine
+- 🔭 GEE, Carto, Mapbox
 
 ### Languages & Tools:
 
