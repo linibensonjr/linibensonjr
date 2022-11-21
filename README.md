@@ -14,7 +14,7 @@
 
 #### My Dev Stack
 - 🔭 Talwind, Bootstrap
-- 🌱 Python,, Django, Flask
+- 🌱 Python, Django, Flask
 -  Javascript, React
 
 
