@@ -15,7 +15,7 @@
 #### My Dev Stack
 - 🔭 Talwind, Bootstrap
 - 🌱 Python, Django, Flask
--  Javascript, React
+- 😊 Javascript, React
 
 
 #### My Geospatial Stack
