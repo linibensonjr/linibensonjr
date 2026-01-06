@@ -37,5 +37,5 @@
 <br/>
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=linibensonjr&show_icons=true&include_all_commits=true&hide_border=true" alt="Iniobong's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linibensonjr&langs_count=8&layout=compact&hide_border=true" alt="Iniobong's GitHub stats" /> |
-| ------------- | ------------- |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=linibensonjr&show_icons=true&include_all_commits=true&hide_border=true" alt="Iniobong's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linibensonjr&langs_count=8&layout=compact&hide_border=true" alt="Iniobong's GitHub stats" /> |
+| ------------- | ------------- | -->
